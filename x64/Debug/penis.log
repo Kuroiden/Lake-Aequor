@@ -1,0 +1,28 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (penis.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Lake Aequor.cpp
+D:\Cloe\Visual Studio Projects\penis\fish.h(11,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(18,74): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(101,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(102,68): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(103,67): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(105,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(108,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(109,69): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(110,67): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(112,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(115,54): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(122,54): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(123,69): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(124,66): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(126,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(129,54): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(130,69): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(131,66): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(133,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(449,38): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(576,25): warning C4305: '=': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(584,25): warning C4305: '=': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(593,25): warning C4305: '=': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(601,25): warning C4305: '=': truncation from 'double' to 'float'
+D:\Cloe\Visual Studio Projects\penis\Lake Aequor.cpp(609,25): warning C4305: '=': truncation from 'double' to 'float'
+  penis.vcxproj -> D:\Cloe\Visual Studio Projects\penis\x64\Debug\Finals-LakeAequor.exe
